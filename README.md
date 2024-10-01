@@ -1,5 +1,5 @@
-# practicandoConPapa
+# Repositorio 1 
 Primer repo creado en github
 
 ## Descripcion
-esto es un repo practicando
+Repositorio 1 Practicando 
